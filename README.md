@@ -32,7 +32,7 @@ The application follows these steps to provide responses to our questions:
 
 ## 2. Document Q&A Application:
 ### Objective:
-  This is a python application that allows us to chat with multiple PDF documents.You can ask questions about the pdfs using natural language,and the application will provide relevant responses based on the 
+  This is a python application that allows us to chat with multiple PDF documents.We can ask questions about the pdfs using natural language,and the application will provide relevant responses based on the 
   context of the documents.This apps utilizes a language model to generate accurate answers to our queries.Please note that the app will only respond to questions related to the loaded PDFs.
 ### How It Works:
 ![image](https://github.com/user-attachments/assets/bd0f0d3c-b148-45fc-8a95-db3dd0066384)
